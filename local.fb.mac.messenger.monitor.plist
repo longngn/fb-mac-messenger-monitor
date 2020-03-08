@@ -6,7 +6,9 @@
     <string>local.fb.mac.messenger.monitor</string>
     <key>Program</key>
     <string>/usr/local/bin/fb-mac-messenger-monitor.sh</string>
+    <key>RunAtLoad</key>
+    <true/>
     <key>StartInterval</key>
-    <integer>7200</integer>
+    <integer>60</integer>
   </dict>
 </plist>
